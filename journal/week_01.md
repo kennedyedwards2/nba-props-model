@@ -17,4 +17,7 @@ What I learned:
 Next:
 
 - Tomorrow I start on Corey Schafer's Python tutorials and pull my first NBA data.
-  f
+
+June 7, 2026
+
+Today I was able to learn conditionals, loops, and functions. I was able to define a function and run multiple scenarios of printing mock player prop data based off conditions relating to average and back to back as a boolean. I tied it altogether by defining a function and giving it an input.
